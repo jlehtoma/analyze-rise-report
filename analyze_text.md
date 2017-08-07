@@ -4,6 +4,15 @@ output:
     theme: flatly
 ---
 
+```r
+library(hunspell)
+library(tidytext)
+library(tidyverse)
+library(pdftools)
+library(SnowballC)
+library(viridis)
+library(wordcloud)
+```
 
 # The RISE report
 

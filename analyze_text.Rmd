@@ -3,7 +3,7 @@ output:
   html_document: 
     theme: flatly
 ---
-```{r setup, echo=FALSE, warning=FALSE, message=FALSE}
+```{r setup, warning=FALSE, message=FALSE}
 library(hunspell)
 library(tidytext)
 library(tidyverse)
