@@ -4,6 +4,15 @@ output:
     theme: flatly
 ---
 
+# The RISE report
+
+Europe’s future: Open Innovation, Open Science, Open to the World - Reflections of the Research, Innovation and Science Policy Experts (RISE) High Level Group. March 2017. Directorate-General for Research and Innovation
+
+See original publications:
+
+http://ec.europa.eu/research/openvision/pdf/publications/ki0217113enn.pdf
+
+
 ```r
 library(hunspell)
 library(tidytext)
@@ -13,14 +22,6 @@ library(SnowballC)
 library(viridis)
 library(wordcloud)
 ```
-
-# The RISE report
-
-Europe’s future: Open Innovation, Open Science, Open to the World - Reflections of the Research, Innovation and Science Policy Experts (RISE) High Level Group. March 2017. Directorate-General for Research and Innovation
-
-See original publications:
-
-http://ec.europa.eu/research/openvision/pdf/publications/ki0217113enn.pdf
 
 
 ```r
